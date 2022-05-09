@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
-options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
-build_start_time: [1651656724, 493603944]
-build_end_time: [1651656726, 317415952]
-inputs:
-  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Maze/Maze/AppDelegate.swift": [1651654073, 969603061]
-  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Maze/Maze/SceneDelegate.swift": [1651652778, 278966903]
-  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/Maze/Maze/ViewController.swift": [1651656707, 340093612]
